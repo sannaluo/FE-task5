@@ -1,0 +1,2 @@
+# If uploading to users.metropolia.fi uncomment next line and make sure that file and folder permissions are 755
+ AddHandler cgi-script .php
